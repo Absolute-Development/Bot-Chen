@@ -95,4 +95,4 @@ bot.on("message", async message => {
 //bot.login(tokenfile.token);
 
 //Heroku 24/7 Hosting
-bot.login(process.env.BOT_TOKEN);
+bot.login(“NjIxODIxMjIwNTI2MjI3NDc2.XXwjwA.8q3ilrV96iggVYoqcbMqmQERWPs”);
